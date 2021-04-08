@@ -1,0 +1,291 @@
+= Платформа КУРС: полезные ссылки
+:revealjs_theme: black
+:revealjs_customtheme: white_course.css
+:revealjs_slideNumber:
+:revealjs_history:
+:revealjs_progress:
+:encoding: UTF-8
+:lang: ru
+include::_doc_general_attributes.adoc[]
+:doctype: article
+:toclevels: 3
+:imagesdir: images
+:icons: font
+:iconfont-remote!:
+:iconfont-name: font-awesome-4.7.0/css/font-awesome
+:nofooter:
+:revealjs_mouseWheel: true
+:toc: left
+
+== Материалы по платформе
+
+* http://www.curs.ru/[Сайт группы компаний «КУРС»]
+* https://corchestra.ru/[Сайт платформы]
+* https://corchestra.ru/wiki[Документация на платформу]
+* https://github.com/CourseOrchestra[Репозиторий платформы на Github]
+
+== Выступления на конференциях
+
+=== По платформе «КУРС»
+
+[cols="5, ^1, ^1, ^1", options="header"]
+|===
+^|Материал
+^|Видеозапись
+^|Место (площадка)
+^|Дата
+
+|https://2018.secon.ru/reports/celesta-sozdanie-biznes-logiki-v-java-ekosisteme[Celesta: Создание бизнес-логики в Java-экосистеме]
+a|image::yt.png[link="https://www.youtube.com/watch?v=IEIzpqID2XI"]
+|SECON2018, Пенза
+|17.03.2018
+
+|https://jugmsk.timepad.ru/event/569994/[Скрытая сложность повседневной задачи: отображение табличных данных. Скрытая сложность Celesta и Flute: Создание ad hoc бизнес-логики в Java-экосистеме]
+a|image::yt.png[link="https://www.youtube.com/watch?v=16lB_c6pHfc"]
+|JUG.MSK, Москва
+|21.09.2017
+
+|http://2017.jpoint.ru/talks/hidden-complexity-of-a-routine-task-presenting-table-data-in-user-interface/[Скрытая сложность повседневной задачи: отображение табличных данных]
+a|image::yt.png[link="https://www.youtube.com/watch?v=h5PpZxYsEvc"]
+|JPoint2017, Москва
+|08.04.2017
+|===
+
+=== По другим темам
+
+[cols="5, ^1, ^1, ^1", options="header"]
+|===
+^|Описание
+^|Видеозапись
+^|Место (площадка)
+^|Дата
+
+| https://jokerconf.com/2020/talks/mfm8ytezwk2ei5uxcjynm/[Kafka streams testing: A deep dive]
+a| 
+
+image::yt.png[link="https://www.youtube.com/watch?v=S_73iXJ50Yc"]
+
+| Joker<?> 2020, онлайн
+| 28.11.2020
+
+
+| https://holyjs-piter.ru/2020/spb/talks/2vx36wa3flihkyipewfeeo/[Apache Kafka: Что это и как она изменит архитектуру вашего приложения]
+a| 
+
+image::yt.png[link="https://www.youtube.com/watch?v=nkYW7YqJYmE"]
+
+| HolyJS SPb 2020, онлайн
+| 25.06.2020
+
+
+| https://2019.devoops-piter.ru/2019/spb/talks/3oexib43m1mt8ww4ouofd3/[Terraform vs Helm: Битва за инфраструктуру]
+a| 
+
+image::yt.png[link="https://www.youtube.com/watch?v=EvXgvUnD774"]
+
+| Devoops 2019, Санкт-Петербург
+| 29.10.2019
+
+
+| https://it.rt.ru/rt_event/docops-meetup/[Ведение документации на программный продукт и ее переиспользование в отчетности заказчику]
+a| 
+
+image::yt.png[link="https://www.youtube.com/watch?v=5N3zyvXB6Jg&t=6449"]
+
+| Write The Docs, Москва
+| 26.07.2019
+
+
+| https://jugmsk.timepad.ru/event/1020626/[Kafka Streams API: шаг за рамки Hello World]
+a| 
+
+image::yt.png[link="https://youtu.be/PqQax9zur9I"]
+
+image::yt.png[link="https://youtu.be/pipM6bwQjoM"]
+
+| JUG.MSK, Москва
+| 25.07.2019
+
+
+| https://heisenbug-piter.ru/2019/spb/talks/4u3n82jikpkslv9zcvmzpc/[Непрерывный статический анализ кода]
+a| image::yt.png[link="https://www.youtube.com/watch?v=_Wv-PvZeRlI"]
+| https://heisenbug.ru/[Гейзенбаг2019], Санкт-Петербург
+| 17.05.2019
+
+| https://nastachku.ru/archive/2019/index.php?dispatch=products.view&product_id=2878[Непрерывный статический анализ]
+|
+| https://nastachku.ru[Стачка2019], Ульяновск
+| 26.04.2019
+
+| Непрерывный статический анализ
+|
+| https://devopsforum.ru[DevopsForum], Москва
+| 20.04.2019
+
+
+| https://jpoint.ru/talks/7fyw10golijzms1eghmntp/[Kafka Streams API: шаг за рамки Hello World]
+a| image::yt.png[link="https://www.youtube.com/watch?v=uUZDfVTVGrE"]
+| JPoint2019, Москва
+| 05.04.2019
+
+
+| Участие в экспертном стенде сообщества Write The Docs
+|
+| https://teamleadconf.ru/[TeamLead Conf], Москва
+| 25-26.02.2019
+
+a| 1. Kafka Streams API: шаг за рамки Hello World
+2. Непрерывный статический анализ кода
+|
+| https://permdevday.timepad.ru/event/891016/[PermDevDay2019], Пермь
+| 16.02.2019
+
+|https://www.meetup.com/ru-RU/RedCode/events/256240101[RedCode Meetup #2. Documentation & Configuration as Code]
+|
+|https://www.meetup.com/ru-RU/RedCode/[RedCode], Краснодар
+|22.11.2018
+
+|https://devoops.ru/2018/spb/talks/1xugh7edoymkmwegye0mks/[Ansible playbooks — это код: проверяем, тестируем, непрерывно интегрируем]
+a|image::yt.png[link="https://www.youtube.com/watch?v=UkP0PGMbWxY"]
+|DevOops2018, СПб
+|14.10.2018
+
+|https://2018.secrus.org/program/submitted-presentations/applying-documentation-as-code-practice/[Применение практики «Документация как код» для документирования заказных приложений]
+a|image::yt.png[link="https://www.youtube.com/watch?v=gUlfFsxVCFg"]
+|SECR2018, Москва
+|12.10.2018
+
+|https://www.meetup.com/ru-RU/DevOps-Moscow-in-Russian/events/254754747/?eventId=254754747&rv=ea1_v2&chapter_analytics_code=UA-47509742-1&rv=ea1_v2[DevOps Moscow meetup: Infrastructure as Code]
+a|image::yt.png[link="https://www.youtube.com/watch?v=xZHrzTz9T1I"]
+|https://www.meetup.com/ru-RU/DevOps-Moscow-in-Russian/[DevOps Moscow]
+|26.09.2018
+
+|https://pensive-cray-1a353a.netlify.com[Почему мы выбрали Asciidoctor для ведения программной документации]
+a|image::yt.png[link="https://www.youtube.com/watch?v=UMEDdvUNRAQ&feature=youtu.be&t=9790"] 
+|https://www.meetup.com/ru-RU/Write-the-Docs-Moscow/[Write the Docs Moscow]
+|22.08.2018
+
+|===
+
+
+== Статьи
+
+=== По платформе «КУРС»
+
+[cols="5, ^1, ^1", options="header"]
+|===
+^|Материал
+^|Место
+^|Дата
+
+|https://dzone.com/articles/celesta-sql-databases-api-schema-migration-and-tes[Celesta: SQL Database APIs, Schema Migration, and Testing in a Single Java Library ]
+|dzone.com
+|25.03.2020
+
+|https://habr.com/ru/post/455746/[Celesta 7.x: ORM, миграции и тестирование «в одном флаконе»]
+|habr.com
+|26.06.2019
+
+|https://dzone.com/articles/producing-spreadsheet-reports-using-xylophone[Producing Spreadsheet Reports Using Xylophone]
+|dzone.com
+|07.01.2019
+
+|https://habr.com/post/422059/[Выгружаем данные в Excel. Цивилизованно]
+|habr.com
+|03.09.2018
+
+|https://dzone.com/articles/hidden-complexity-of-a-routine-task-presenting-tab[Hidden Complexity of a Routine Task: Presenting Table Data in User Interface]
+|dzone.com
+|23.08.2018
+
+|https://dzone.com/articles/trouble-free-database-migration-idempotence-and-co[Trouble-Free Database Migration: Idempotence and Convergence for DDL Scripts]
+|dzone.com
+|27.03.2018
+
+
+|https://habr.com/post/337816/[Миграция схемы данных без головной боли: идемпотентность и конвергентность для DDL-скриптов]
+|habr.com
+|13.09.2017
+
+|https://habr.com/post/335966/[Celesta и Flute: Создание бизнес-логики в Java-экосистеме]
+|habr.com
+|04.09.2017
+
+|https://habr.com/post/279083/[Реализация грида для работы с большими таблицами. Часть 2]
+|habr.com
+|21.03.2016
+
+|https://habr.com/post/278773/[Реализация грида для работы с большими таблицами. Часть 1]
+|habr.com
+|14.03.2016
+|===
+
+=== По другим темам
+
+[cols="5, ^1, ^1", options="header"]
+|===
+^|Материал
+^|Место
+^|Дата
+
+
+|https://www.confluent.io/blog/testing-kafka-streams/[Testing Kafka Streams – A Deep Dive]
+|Confluent Blog
+|18.08.2020
+
+|https://habr.com/ru/company/jugru/blog/499408/[Подводные камни тестирования Kafka Streams]
+|habr.com
+|12.05.2020
+
+|https://dzone.com/articles/presentation-as-code-why-i-abandoned-powerpoint[Presentation as Code: Why I Abandoned PowerPoint]
+|dzone.com
+|23.10.2019
+
+|https://habr.com/ru/post/456032/[Презентация как код, или Почему я больше не пользуюсь Powerpoint-ом]
+|habr.com
+|22.06.2019
+
+|https://habr.com/ru/post/440610/[Introduce Static Analysis in the Process, Don't Just Search for Bugs with It]
+|habr.com
+|18.02.2019
+
+|https://habr.com/ru/post/436868/[Внедряйте статический анализ в процесс, а не ищите с его помощью баги]
+|habr.com
+|21.01.2019
+
+|https://habr.com/ru/post/432736/[Devops, JUnit5 и тестирование микросервисов: субъективный взгляд на московский «Гейзенбаг»]
+|habr.com
+|10.12.2017
+
+|https://habr.com/post/416077/[PlantUML — все, что нужно бизнес-аналитику для создания диаграмм в программной документации]
+|habr.com
+|04.07.2018
+
+|https://habr.com/post/351974/[Тестирование и непрерывная интеграция для Ansible-ролей при помощи Molecule и Jenkins]
+|habr.com
+|25.03.2018
+
+|https://dzone.com/articles/using-o-notation-beyond-algorithm-analysis[Using O Notation Beyond Algorithm Analysis]
+|dzone.com
+|12.02.2018
+
+|https://habr.com/post/344346/[Пять идей «на вооружение», или Впечатления от московского «Гейзенбага»]
+|habr.com
+|10.12.2017
+
+|https://habr.com/post/332634/[Вещи, которые мне надо было знать прежде, чем создавать систему с очередью]
+|habr.com
+|07.08.2017
+
+|===
+
+//== Ближайшие мероприятия
+//
+//[cols="5, ^1, ^1", options="header"]
+//|===
+//^|Описание
+//^|Место (площадка)
+//^|Дата
+//
+//
+//|===
