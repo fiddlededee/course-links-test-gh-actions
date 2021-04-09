@@ -11,6 +11,8 @@ jobs:
           mkdir target
           docker run --rm -v $(pwd):/documents/ lihame/course-doc asciidoctor src/main/asciidoc/links.adoc -o target/index.html
           cp src/main/asciidoc/images target -r
+          pwd
+          ls
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.3.0
         env:
