@@ -14,7 +14,7 @@ jobs:
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.3.0
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_GH }}
+          GH_PAT: ${{ secrets.PAT_GH }}
         with:
           build_dir: target
 
